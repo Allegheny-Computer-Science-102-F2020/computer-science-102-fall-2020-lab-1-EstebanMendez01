@@ -1,4 +1,4 @@
-## Learning Objectives for Mathematically Informed Communication
+# Learning Objectives for Mathematically Informed Communication
 
 - **Discrete Structures**:
   - Given the formal definition of a discrete structure, a learner will
