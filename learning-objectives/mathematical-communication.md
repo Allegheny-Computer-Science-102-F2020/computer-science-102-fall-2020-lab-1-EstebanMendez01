@@ -19,7 +19,6 @@
     - Use formal and precise mathematical language to correctly describe the
       representation, behavior, and limitations of the type of data.
 
-
 - **Data Analysis**:
   - Given a set of textual, numerical, categorical, and/or binary data, the
     learner will implement, use, and evaluate:
@@ -30,7 +29,6 @@
       data set.
     - An appropriate data transmission method, as a Python function, that can
       transform the data into any format required by any external tools.
-
 
 - **Mathematical Functions**:
   - Leveraging their understanding of higher-order functions, lambda functions,
