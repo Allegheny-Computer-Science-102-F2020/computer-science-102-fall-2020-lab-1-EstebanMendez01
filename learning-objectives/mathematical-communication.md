@@ -2,7 +2,7 @@
 
 **Discrete Structures**:
 
-- Given the formal definition of a discrete structure, a learner will
+- Given the formal definition of a discrete       structure, a learner will
 correctly translate it into a Python program, bearing in mind the ways in
 which the working system may diverge from the formal definition due to, for
 instance, implementation concerns related to computational costs and storage
@@ -56,5 +56,3 @@ involving one or more discrete structures, be able to:
   - Use formal statements to defend the validity of their design,
   implementation, and testing decisions made when solving the problem with
   the chosen function(s).
-
-
