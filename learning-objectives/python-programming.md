@@ -22,7 +22,6 @@
     failure, ultimately confirming that the Python programs no longer contains
     the failure and the fix did not compromise other functions in the program.
 
-
 - **Using Version Control Systems**:
     - Clone a GitHub repository without error using either a terminal window or
     an extension for Git integration in a text editor like VS Code.
@@ -45,7 +44,6 @@
     build by GitHub Actions.
     - A learner will use the GitHub version control system in the following
     fashion:
-
 
 - **Performing Python Programming**:
     - A learner will write short Python functions of ten to twenty Lines that have
@@ -72,5 +70,3 @@
     - A learner will write Python programs consisting of between one and five
     hundred lines of source code that correctly solve problems using discrete
     structures.
-
-
