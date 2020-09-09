@@ -8,9 +8,11 @@ TODO: Add a fenced code block that gives the output from running the program
 
 ## For each terminal window command, add an explanation to the following list
 
-- `python3 src/display_course_name.py`: That you want to open an specific python program. 
-- `git commit`: Describe a multi-step process in which a command is being done. 
-- `gradle grade`: Check grades of a specific folder or repository.
+```
+- python3 src/display_course_name.py: That you want to open an specific python program. 
+- git commit: Describe a multi-step process in which a command is being done. 
+- gradle grade: Check grades of a specific folder or repository.
+```
 
 ## What was the greatest technical challenge that you faced and how did you overcome it?
 
