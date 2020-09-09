@@ -1,7 +1,6 @@
 """Display the name of the course using individual characters."""
 
 # First line of the course name:
-```
 # ___  _ ____ ____ ____ ____ ___ ____
 # |  \ | [__  |    |__/ |___  |  |___
 # |__/ | ___] |___ |  \ |___  |  |___
@@ -11,7 +10,7 @@
 # ____ ___ ____ _  _ ____ ___ _  _ ____ ____ ____
 # [__   |  |__/ |  | |     |  |  | |__/ |___ [__
 # ___]  |  |  \ |__| |___  |  |__| |  \ |___ ___]
-```
+
 
 def display_course_name_line_one():
     """Prints the first line of the course name."""
