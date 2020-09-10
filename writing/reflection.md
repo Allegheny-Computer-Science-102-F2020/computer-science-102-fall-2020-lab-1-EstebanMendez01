@@ -1,6 +1,4 @@
-# Reflection by Add Your Name Here
-
-Esteban Mendez
+# Reflection by Esteban Mendez
 
 ## Using a fenced code block, please display the correct output from running your program
 
