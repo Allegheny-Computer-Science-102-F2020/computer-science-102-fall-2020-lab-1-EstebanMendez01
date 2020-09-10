@@ -44,7 +44,6 @@
         - Submit completed projects that pass all of the instructor-provided and
         industry-standard checks, as evidenced through the report of a passing
         build by GitHub Actions.
-    
 
 - **Performing Python Programming**:
     - A learner will write short Python functions of ten to twenty Lines that have
