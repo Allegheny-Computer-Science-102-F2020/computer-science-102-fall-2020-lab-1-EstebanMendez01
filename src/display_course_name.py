@@ -23,8 +23,6 @@ def display_course_name_line_two():
     print("____ ___ ____ _  _ ____ ___ _  _ ____ ____ ____")
     print("[__   |  |__/ |  | |     |  |  | |__/ |___ [__")
     print("___]  |  |  \ |__| |___  |  |__| |  \ |___ ___]")
-    
-
 
 def display_separator():
     """Prints a blank line separator."""

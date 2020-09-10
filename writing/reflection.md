@@ -2,7 +2,16 @@
 
 ## Using a fenced code block, please display the correct output from running your program
 
-TODO: Add a fenced code block that gives the output from running the program
+```
+___  _ ____ ____ ____ ____ ___ ____
+|  \ | [__  |    |__/ |___  |  |___
+|__/ | ___] |___ |  \ |___  |  |___
+
+
+____ ___ ____ _  _ ____ ___ _  _ ____ ____ ____
+[__   |  |__/ |  | |     |  |  | |__/ |___ [__
+___]  |  |  \ |__| |___  |  |__| |  \ |___ ___]
+```
 
 ## For each terminal window command, add an explanation to the following list
 
