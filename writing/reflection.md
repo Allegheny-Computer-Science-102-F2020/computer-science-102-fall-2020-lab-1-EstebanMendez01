@@ -1,7 +1,6 @@
 # Reflection by Esteban Mendez
 
 ## Using a fenced code block, please display the correct output from running your program
-
 ```
 ___  _ ____ ____ ____ ____ ___ ____
 |  \ | [__  |    |__/ |___  |  |___
@@ -23,11 +22,11 @@ ___]  |  |  \ |__| |___  |  |__| |  \ |___ ___]
 
 ## What was the greatest technical challenge that you faced and how did you overcome it?
 
-The greatest technical challenge that I faced was that the program was not working and it was not letting me do the ssh key and to add it to the VS Code, so what I di dis to reach out to a Technical Leader to help me solve my problem, but before that I searched of what may the problem be. Finally We solved it by just moving the folder and put it in a spot that the computer has access to.
+The greatest technical challenge that I faced was that the program was not working and it was not letting me do the ssh key and to add it to the VS Code, so what I did dis to reach out to a Technical Leader to help me solve my problem, but before that I searched of what may the problem be. But before that I was trying searching in the internet the problem, but there was not a single clear solution for me to make. Finally We solved it by just moving the folder and put it in a spot that the computer has access to.
 
 ## After completing this assignment, what is task that you want to practice more? Why?
 
-The task I want to practice more is the fact of using git, since I never used it before I need to get used to it. It is a great resource, because you use it for everything, like cloning, commiting, pushing, which is important to have the things up to date. This task is very important, because I will be using it a lot of time within the course and when I am using GitHub and Git.
+The task I want to practice more is the fact of using git, since I never used it before I need to get used to it. It is a great resource, because you use it for everything, like cloning, commiting, pushing, which is important to have the things up to date. I think I will be using this throughout my major which is computer science, so it may be a great tool for learning it how to handle problems with it. This task is very important, because I will be using it a lot of time within the course and when I am using GitHub and Git.
 
 ## After completing this assignment, what is one experience for which you are grateful?
 
