@@ -1,6 +1,7 @@
 # Reflection by Esteban Mendez
 
 ## Using a fenced code block, please display the correct output from running your program
+
 ```
 ___  _ ____ ____ ____ ____ ___ ____
 |  \ | [__  |    |__/ |___  |  |___
